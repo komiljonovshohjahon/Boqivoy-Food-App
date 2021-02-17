@@ -40,6 +40,7 @@ The following tools were used in this project:
 ## :checkered_flag: Starting
 
 ```bash
+
 # Clone this project
 $ git clone https://github.com/komiljonovshohjahon/Boqivoy-Food-App
 
@@ -52,7 +53,11 @@ $ npm install
 # Run the project
 $ npm start
 
+# For emulator
+Install Expo Go on Android or iPhone
 
+# Initialization
+Scan the QR Code on the phone
 ```
 
 ## :memo: Author
