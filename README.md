@@ -1,12 +1,12 @@
+<h1 align="center">Boqivoy Foods</h1>
+
 <div align="center" id="top">
-<img width="50%" src="https://raw.githubusercontent.com/komiljonovshohjahon/Boqivoy-Food-App/master/assets/boqivoy_icon.png" alt="{{Boqivoy Foods}}" />
+<img width="30%" src="https://raw.githubusercontent.com/komiljonovshohjahon/Boqivoy-Food-App/master/assets/boqivoy_icon.png" alt="{{Boqivoy Foods}}" />
 
 &#xa0;
 
   <!-- <a href="https://{{app_url}}.netlify.app">Demo</a> -->
 </div>
-
-<h1 align="center">Boqivoy Foods</h1>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
