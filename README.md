@@ -50,7 +50,7 @@ $ cd Boqivoy-Food-App
 $ npm install
 
 # Run the project
-$ expo start
+$ npm start
 
 
 ```
