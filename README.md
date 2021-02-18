@@ -22,6 +22,13 @@
 
 React Native based application which shows restaurants and pictures with details using Yelp REST API.
 
+<div align="center">
+  <img width="30%" src="https://i.imgur.com/2SAFBEn.gif" alt="App Preview Gif"/>
+
+<a href="https://drive.google.com/file/d/1RyvG9hKb3beQLTI2zt9WVhxILfk1xzoa/view?usp=sharing">Demo</a>
+
+</div>
+
 ## :sparkles: Features
 
 :heavy_check_mark: Search any restsurant;\
@@ -52,6 +59,8 @@ $ npm install
 
 # Run the project
 $ npm start
+
+# The server will initialize in the: http://localhost:19002
 
 # For emulator
 Install Expo Go on Android or iPhone
