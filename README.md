@@ -22,7 +22,9 @@
 React Native based application which shows restaurants and pictures with details using Yelp REST API. Click the "<a target="_blank" href="https://appetize.io/app/5a7km7pf0m55zgnu3tqaytudkr">Demo</a>" button and tap to play.
 
 <div align="center">
-  <img width="30%" src="[Imgur](https://i.imgur.com/JL5NT5h.gifv)" alt="App Preview Gif"/>
+  <img width="30%" src="https://i.imgur.com/JL5NT5h.gifv" alt="App Preview Gif"/>
+
+<a width="30%" href="https://imgur.com/JL5NT5h"><img src="https://i.imgur.com/JL5NT5h.gif" title="source: imgur.com" /></a>
 
 :point_right: <a target="_blank" href="https://appetize.io/app/5a7km7pf0m55zgnu3tqaytudkr">Demo</a> :point_left:
 
