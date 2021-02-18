@@ -1,7 +1,7 @@
 <h1 align="center">Boqivoy Foods</h1>
 
 <div align="center" id="top">
-<img width="30%" src="https://raw.githubusercontent.com/komiljonovshohjahon/Boqivoy-Food-App/master/assets/boqivoy_icon.png" alt="{{Boqivoy Foods}}" />
+<img width="30%" src="https://raw.githubusercontent.com/komiljonovshohjahon/Boqivoy-Food-App/master/assets/boqivoy_icon.png" alt="Boqivoy Foods" />
 
 &#xa0;
 
@@ -22,7 +22,7 @@
 React Native based application which shows restaurants and pictures with details using Yelp REST API. Click the "<a target="_blank" href="https://appetize.io/app/5a7km7pf0m55zgnu3tqaytudkr">Demo</a>" button and tap to play.
 
 <div align="center">
-  <img width="30%" src="https://i.imgur.com/JL5NT5h.gif" alt="App Preview Gif"/>
+  <img width="30%" src="[Imgur](https://i.imgur.com/JL5NT5h.gifv)" alt="App Preview Gif"/>
 
 :point_right: <a target="_blank" href="https://appetize.io/app/5a7km7pf0m55zgnu3tqaytudkr">Demo</a> :point_left:
 
