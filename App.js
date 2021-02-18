@@ -11,7 +11,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: "Search",
     defaultNavigationOptions: {
-      title: "Yemoq Qidirish",
+      title: "Boqivoy Foods",
     },
   }
 );
