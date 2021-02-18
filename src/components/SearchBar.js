@@ -8,7 +8,7 @@ const SearchScreen = ({ term, onTermChange, onTermEnd }) => {
       <Feather name="search" style={styles.iconStyle} />
       <TextInput
         style={styles.inputStyle}
-        placeholder="Qidirish"
+        placeholder="Search"
         value={term}
         onChangeText={onTermChange}
         onEndEditing={onTermEnd}
