@@ -8,9 +8,8 @@ const ResultDetail = ({ result }) => {
       <Image style={styles.image} source={{ uri: result.image_url }} />
       <Text style={styles.nameStyle}>{result.name}</Text>
       <Text style={styles.textStyle}>
-        {result.rating} Baho, {result.review_count} Sharhlar
+        {result.rating} Rating, {result.review_count} Comments
       </Text>
-      <Slider />
     </View>
   );
 };
