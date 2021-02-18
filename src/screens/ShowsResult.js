@@ -29,7 +29,7 @@ const ShowsResult = ({ navigation }) => {
           return <Image style={styles.image} source={{ uri: item }} />;
         }}
       />
-      <Text style={styles.phoneStyle}>Phone Number {result.phone} </Text>
+      <Text style={styles.phoneStyle}>Phone Number: {result.phone} </Text>
     </View>
   );
 };
