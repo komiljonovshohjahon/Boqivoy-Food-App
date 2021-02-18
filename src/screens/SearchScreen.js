@@ -21,12 +21,11 @@ const SearchScreen = () => {
         onTermChange={setTerm}
         onTermEnd={() => searchApi(term)}
       />
-      {error ? <Text>{error}</Text> : null}
-      {/* <Text>There are {result.length} results found.</Text> */}
+      {error ? <Text style={{ alignItems: "center" }}>{error}</Text> : null}
       <ScrollView>
-        <ResultsList results={priceResult("$")} title="Chidasa Bo'ladi" />
-        <ResultsList results={priceResult("$$")} title="Qimmatroq" />
-        <ResultsList results={priceResult("$$$")} title="Vabshee Qimmat" />
+        <ResultsList results={priceResult("$")} title="Can Efford" />
+        <ResultsList results={priceResult("$$")} title="Expensive" />
+        <ResultsList results={priceResult("$$$")} title="Very Expensive" />
       </ScrollView>
     </>
   );
