@@ -5,7 +5,6 @@
 
 &#xa0;
 
-  <!-- <a href="https://{{app_url}}.netlify.app">Demo</a> -->
 </div>
 
 <p align="center">
@@ -13,19 +12,19 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{github}}" target="_blank">Author</a>
+  <a href="https://github.com/komiljonovshohjahon" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About
 
-React Native based application which shows restaurants and pictures with details using Yelp REST API.
+React Native based application which shows restaurants and pictures with details using Yelp REST API. Click the "<a target="_blank" href="https://appetize.io/app/5a7km7pf0m55zgnu3tqaytudkr">Demo</a>" button and tap to play.
 
 <div align="center">
-  <img width="30%" src="https://i.imgur.com/2SAFBEn.gif" alt="App Preview Gif"/>
+  <img width="30%" src="https://i.imgur.com/JL5NT5h.gif" alt="App Preview Gif"/>
 
-<a href="https://drive.google.com/file/d/1RyvG9hKb3beQLTI2zt9WVhxILfk1xzoa/view?usp=sharing">Demo</a>
+:point_right: <a target="_blank" href="https://appetize.io/app/5a7km7pf0m55zgnu3tqaytudkr">Demo</a> :point_left:
 
 </div>
 
@@ -54,7 +53,7 @@ $ git clone https://github.com/komiljonovshohjahon/Boqivoy-Food-App
 # Access
 $ cd Boqivoy-Food-App
 
-# Install dependencies
+# Install all dependencies
 $ npm install
 
 # Run the project
